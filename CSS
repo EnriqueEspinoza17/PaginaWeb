@@ -1,0 +1,49 @@
+*{
+margin: 0;
+padding : 0;
+}
+.header
+{
+    background-image: linear-gradient(to right, #472e24 , #e7ab85);
+height: 100vh;
+}
+
+.navbar-style
+{
+    background-image: linear-gradient(to right, #641f1f , #e7ab85);
+    box-shadow: 0  10px 10px #efefef;
+font-size: 25px;
+font-style: oblique;
+color: azure;
+margin: 2rem auto;
+text-align: left
+
+}
+
+.imagen{
+height: 100px;
+padding: 10px px;
+}
+
+.parrafoLa
+{
+background-color: rgb(85, 85, 85);
+height: 500px;
+font-size: 55px;
+margin : 2rem auto;
+text-align: center;
+width: 329px;
+color:rgb(243, 214, 120) ;
+
+} 
+.parrafoLa P
+{
+margin: 0 ;
+padding: 1 0rem
+} 
+.letras
+{
+    font-size: 50px;
+color: darkgoldenrod;
+
+}
